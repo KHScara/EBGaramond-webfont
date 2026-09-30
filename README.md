@@ -5,7 +5,7 @@ A webfont version of EB Garamond that have every opentype function (not like Goo
 @font-face {
   font-family: "EB Garamond";
   font-display: swap;
-  font-style: italic;
+  font-style: normal;
   src: url("https://cdn.jsdelivr.net/gh/khscara/EBGaramond-webfont/EBGaramond-VariableFont_wght.woff2") format("woff2");
 }
 
